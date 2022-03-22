@@ -8,7 +8,7 @@ def cont():                             #Function to continue
 	input("\nPress Return to continue...")
 
 def fail():                             #Fail Checker
-	print("\nYou fucked up Shitlord.")
+	print("\nYou messed up.")
 	cont()
 
 def close():                            #Close Osric Shinies
